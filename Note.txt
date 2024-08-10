@@ -1,0 +1,7 @@
+google search
+ref- web/github------doc/demo
+
+plugin file link up - css + js; js=>js (library file not required); jq=>3.7.1/1.12.4 (library file required)
+markup - html code
+style - change/add----optional
+js/jq - activation
